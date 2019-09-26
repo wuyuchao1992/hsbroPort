@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec0752a-ea50-40ca-8f12-a8b03d421cd6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_01_test_01_test_01.coverage" NAME="py.test for test_01.test_01.test_01 Coverage Results" MODIFIED="1568627186849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2__1_.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2 (1) Coverage Results" MODIFIED="1567761296328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_tese_01_Order1_test_02_Admin_Verify_Order.coverage" NAME="py.test for test_Order1.tese_01_Order1.test_02_Admin_Verify_Order Coverage Results" MODIFIED="1568273474953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_01_test_01_test_login.coverage" NAME="py.test for test_01.test_01.test_login Coverage Results" MODIFIED="1568616639360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order3_test_01_Order3_test_01_ShopsOrder3SaveDraft.coverage" NAME="py.test for test_Order3.test_01_Order3.test_01_ShopsOrder3SaveDraft Coverage Results" MODIFIED="1568967931789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_01_editConfig_test_login.coverage" NAME="py.test for test_01.editConfig.test_login Coverage Results" MODIFIED="1568616157980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Org_TEST_01_ADMIN_SUBMIT_PERSONAL_ORG.coverage" NAME="py.test for test_Org.TEST_01_ADMIN_SUBMIT_PERSONAL_ORG Coverage Results" MODIFIED="1568883404832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order2_test_01_Order2.coverage" NAME="py.test for test_Order2.test_01_Order2 Coverage Results" MODIFIED="1569463203660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_04_ShopsOrder3SaveDraft.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_04_ShopsOrder3SaveDraft Coverage Results" MODIFIED="1568096366302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_in_test_Order1_py.coverage" NAME="py.test in test_Order1.py Coverage Results" MODIFIED="1568270312092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_in_test_Order3_py.coverage" NAME="py.test in test_Order3.py Coverage Results" MODIFIED="1568897270736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_03_Order2_test_04_H5VerifyLoan.coverage" NAME="py.test for test_Shop_Submit_Order2.test_03_Order2.test_04_H5VerifyLoan Coverage Results" MODIFIED="1568190580283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_03_Order2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_03_Order2 Coverage Results" MODIFIED="1568191531490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Orginfo_testAddInfo_testPersonalSubmitInfo.coverage" NAME="py.test for test_Shop_Submit_Orginfo.testAddInfo.testPersonalSubmitInfo Coverage Results" MODIFIED="1567649707254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_02_ShopCheckOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_02_ShopCheckOrder2 Coverage Results" MODIFIED="1568102959897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_01_Order1.coverage" NAME="py.test for test_Order1.test_01_Order1 Coverage Results" MODIFIED="1569465686751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_in_test_01_py.coverage" NAME="py.test in test_01.py Coverage Results" MODIFIED="1568617611523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1568794678259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Admin_Submit_Orginfo_testAddInfo_testOrgSubmitInfo.coverage" NAME="py.test for test_Admin_Submit_Orginfo.testAddInfo.testOrgSubmitInfo Coverage Results" MODIFIED="1567994545863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_01_AdminAuditOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_01_AdminAuditOrder2 Coverage Results" MODIFIED="1568102908010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Admin_Submit_Orginfo_test_01_SHOP_test_01_Personal_Submit_Info.coverage" NAME="py.test for test_Admin_Submit_Orginfo.test_01_SHOP.test_01_Personal_Submit_Info Coverage Results" MODIFIED="1568710381053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Org_TEST_02_SHOP_SUBMIT_ORG.coverage" NAME="py.test for test_Org.TEST_02_SHOP_SUBMIT_ORG Coverage Results" MODIFIED="1568878438183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order2_test_03_Order2.coverage" NAME="py.test for test_Order2.test_03_Order2 Coverage Results" MODIFIED="1569378625002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_03_Order3.coverage" NAME="py.test for test_Shop_Submit_Order2.test_03_Order3 Coverage Results" MODIFIED="1568101276347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_01_test_01.coverage" NAME="py.test for test_01.test_01 Coverage Results" MODIFIED="1568704474540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_02_Order1_test_03_Admin_VerifyLoan.coverage" NAME="py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan Coverage Results" MODIFIED="1569463408481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1567670932540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_01_AdminAuditOrder2__1_.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_01_AdminAuditOrder2 (1) Coverage Results" MODIFIED="1567755264987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2 Coverage Results" MODIFIED="1568191476270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Org_TEST_01_ADMIN_SUBMIT_ORG_test_02_Org_Submit_Info.coverage" NAME="py.test for test_Org.TEST_01_ADMIN_SUBMIT_ORG.test_02_Org_Submit_Info Coverage Results" MODIFIED="1568877931770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_01_Order1_test_01_Shop_Submit_Order.coverage" NAME="py.test for test_Order1.test_01_Order1.test_01_Shop_Submit_Order Coverage Results" MODIFIED="1569393962346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_05_ShopSettlementApply.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_05_ShopSettlementApply Coverage Results" MODIFIED="1568187249021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_tese_01_Order1.coverage" NAME="py.test for test_Order1.tese_01_Order1 Coverage Results" MODIFIED="1568270583266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_testOrder2_testOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.testOrder2.testOrder2 Coverage Results" MODIFIED="1567667428313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$123.coverage" NAME="123 Coverage Results" MODIFIED="1568704283129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_testOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.testOrder2 Coverage Results" MODIFIED="1567675050148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_testOrder2_testAdminAuditOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.testOrder2.testAdminAuditOrder2 Coverage Results" MODIFIED="1567672190036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Org_TEST_02_ADMIN_SUBMIT_ENTERPRISE_ORG.coverage" NAME="py.test for test_Org.TEST_02_ADMIN_SUBMIT_ENTERPRISE_ORG Coverage Results" MODIFIED="1569314048716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order2_test_02_Order2.coverage" NAME="py.test for test_Order2.test_02_Order2 Coverage Results" MODIFIED="1569378578641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_01_AdminAuditOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_01_AdminAuditOrder2 Coverage Results" MODIFIED="1567677533230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_setConfig_editConfig_testContract.coverage" NAME="py.test for test_setConfig.editConfig.testContract Coverage Results" MODIFIED="1569393892416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_testOrder2_testShopSubmitOrder2.coverage" NAME="py.test for test_Shop_Submit_Order2.testOrder2.testShopSubmitOrder2 Coverage Results" MODIFIED="1567674865792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Order2_test_02_Order2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2 Coverage Results" MODIFIED="1567677764930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_01_Order2.coverage" NAME="py.test for test_Shop_Submit_Order2.test_01_Order2 Coverage Results" MODIFIED="1568191284395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order3_test_01_Order3.coverage" NAME="py.test for test_Order3.test_01_Order3 Coverage Results" MODIFIED="1568855266476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_01_Order1_test_02_Admin_Verify_Order.coverage" NAME="py.test for test_Order1.test_01_Order1.test_02_Admin_Verify_Order Coverage Results" MODIFIED="1568897645859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_02_Order2_test_06_AdminVerifyAmount.coverage" NAME="py.test for test_Shop_Submit_Order2.test_02_Order2.test_06_AdminVerifyAmount Coverage Results" MODIFIED="1568185333109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_tese_01_Order1_test_AdminVerifyOrder.coverage" NAME="py.test for test_Order1.tese_01_Order1.test_AdminVerifyOrder Coverage Results" MODIFIED="1568271778147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply.coverage" NAME="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply Coverage Results" MODIFIED="1569463695704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroTest$py_test_for_test_Shop_Submit_Orginfo_testAddInfo_testOrgSubmitInfo.coverage" NAME="py.test for test_Shop_Submit_Orginfo.testAddInfo.testOrgSubmitInfo Coverage Results" MODIFIED="1567649709873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Shop_Submit_Order2_test_03_Order2_test_06_AdminVerifyAmount.coverage" NAME="py.test for test_Shop_Submit_Order2.test_03_Order2.test_06_AdminVerifyAmount Coverage Results" MODIFIED="1568191238599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_02_Order1_test_05_Admin_LaunchB7.coverage" NAME="py.test for test_Order1.test_02_Order1.test_05_Admin_LaunchB7 Coverage Results" MODIFIED="1569464016436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/hsBroPort$py_test_for_test_Order1_test_02_Order1.coverage" NAME="py.test for test_Order1.test_02_Order1 Coverage Results" MODIFIED="1569465782730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_Order1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/test_Order1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="149" column="13" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+              <folding>
+                <element signature="e#2023#6615#0" expanded="false" />
+                <element signature="e#2854#4326#0" expanded="false" />
+                <element signature="e#3242#4284#0" expanded="false" />
+                <element signature="e#4377#6615#0" expanded="false" />
+                <element signature="e#5472#5478#0" expanded="false" />
+                <element signature="e#6167#6362#0" expanded="false" />
+                <element signature="e#6469#6574#0" expanded="false" />
+                <element signature="e#6675#14951#0" expanded="false" />
+                <element signature="e#6720#8430#0" expanded="false" />
+                <element signature="e#7257#7403#0" expanded="false" />
+                <element signature="e#7506#8047#0" expanded="false" />
+                <element signature="e#8145#8389#0" expanded="false" />
+                <element signature="e#8479#9168#0" expanded="false" />
+                <element signature="e#9012#9127#0" expanded="false" />
+                <element signature="e#9217#11017#0" expanded="false" />
+                <element signature="e#9525#10977#0" expanded="false" />
+                <element signature="e#9750#9867#0" expanded="false" />
+                <element signature="e#9970#10117#0" expanded="false" />
+                <element signature="e#10219#10376#0" expanded="false" />
+                <element signature="e#10473#10626#0" expanded="false" />
+                <element signature="e#10723#10976#0" expanded="false" />
+                <element signature="e#11070#11954#0" expanded="false" />
+                <element signature="e#12001#14951#0" expanded="false" />
+                <element signature="e#12308#14911#0" expanded="false" />
+                <element signature="e#13057#13672#0" expanded="false" />
+                <element signature="e#13776#13935#0" expanded="false" />
+                <element signature="e#14040#14158#0" expanded="false" />
+                <element signature="e#14261#14408#0" expanded="false" />
+                <element signature="e#14504#14651#0" expanded="false" />
+                <element signature="e#14749#14910#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Order2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#15#59#0" expanded="true" />
+                <element signature="e#1146#5390#0" expanded="false" />
+                <element signature="e#1206#3285#0" expanded="false" />
+                <element signature="e#2244#3244#0" expanded="false" />
+                <element signature="e#3334#5390#0" expanded="false" />
+                <element signature="e#4137#4449#0" expanded="false" />
+                <element signature="e#4562#4776#0" expanded="false" />
+                <element signature="e#5210#5349#0" expanded="false" />
+                <element signature="e#5450#9826#0" expanded="false" />
+                <element signature="e#5524#7330#0" expanded="false" />
+                <element signature="e#5827#7290#0" expanded="false" />
+                <element signature="e#6554#6952#0" expanded="false" />
+                <element signature="e#7059#7289#0" expanded="false" />
+                <element signature="e#7375#8653#0" expanded="false" />
+                <element signature="e#7684#8613#0" expanded="false" />
+                <element signature="e#8381#8612#0" expanded="false" />
+                <element signature="e#8703#9826#0" expanded="false" />
+                <element signature="e#9008#9786#0" expanded="false" />
+                <element signature="e#9886#17378#0" expanded="false" />
+                <element signature="e#9957#11470#0" expanded="false" />
+                <element signature="e#10862#11094#0" expanded="false" />
+                <element signature="e#11200#11429#0" expanded="false" />
+                <element signature="e#11522#13063#0" expanded="false" />
+                <element signature="e#11830#13023#0" expanded="false" />
+                <element signature="e#12754#13022#0" expanded="false" />
+                <element signature="e#13113#17378#0" expanded="false" />
+                <element signature="e#13412#17338#0" expanded="false" />
+                <element signature="e#14643#15064#0" expanded="false" />
+                <element signature="e#15173#15594#0" expanded="false" />
+                <element signature="e#15702#16123#0" expanded="false" />
+                <element signature="e#16231#16720#0" expanded="false" />
+                <element signature="e#16820#17038#0" expanded="false" />
+                <element signature="e#17137#17337#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Order3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_Order3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2002">
+              <caret line="366" column="23" lean-forward="false" selection-start-line="366" selection-start-column="23" selection-end-line="366" selection-end-column="23" />
+              <folding>
+                <element signature="e#15#59#0" expanded="true" />
+                <element signature="e#1371#2376#0" expanded="false" />
+                <element signature="e#2420#3426#0" expanded="false" />
+                <element signature="e#3445#4385#0" expanded="false" />
+                <element signature="e#4484#4735#0" expanded="false" />
+                <element signature="e#5136#5214#0" expanded="false" />
+                <element signature="e#5233#5311#0" expanded="false" />
+                <element signature="e#5317#5353#0" expanded="false" />
+                <element signature="e#8876#12588#0" expanded="false" />
+                <element signature="e#11128#11146#0" expanded="false" />
+                <element signature="e#12602#12610#0" expanded="false" />
+                <element signature="e#17593#17599#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2706">
+              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_setConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_setConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cfg.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Org.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+              <folding>
+                <element signature="e#1395#10804#0" expanded="false" />
+                <element signature="e#1569#10764#0" expanded="false" />
+                <element signature="e#1645#3637#0" expanded="false" />
+                <element signature="e#6293#7147#0" expanded="false" />
+                <element signature="e#7249#7473#0" expanded="false" />
+                <element signature="e#7538#8200#0" expanded="false" />
+                <element signature="e#8201#8903#0" expanded="false" />
+                <element signature="e#8992#9513#0" expanded="false" />
+                <element signature="e#9606#9842#0" expanded="false" />
+                <element signature="e#9944#10204#0" expanded="false" />
+                <element signature="e#10312#10499#0" expanded="false" />
+                <element signature="e#10593#10763#0" expanded="false" />
+                <element signature="e#10886#21752#0" expanded="false" />
+                <element signature="e#11025#21752#0" expanded="false" />
+                <element signature="e#11276#14511#0" expanded="false" />
+                <element signature="e#17138#17992#0" expanded="false" />
+                <element signature="e#18094#18258#0" expanded="false" />
+                <element signature="e#18323#19035#0" expanded="false" />
+                <element signature="e#19037#19824#0" expanded="false" />
+                <element signature="e#19914#20320#0" expanded="false" />
+                <element signature="e#20413#20567#0" expanded="false" />
+                <element signature="e#20670#20857#0" expanded="false" />
+                <element signature="e#20965#21152#0" expanded="false" />
+                <element signature="e#21247#21711#0" expanded="false" />
+                <element signature="e#21830#31794#0" expanded="false" />
+                <element signature="e#22050#24990#0" expanded="false" />
+                <element signature="e#22125#22317#0" expanded="false" />
+                <element signature="e#22471#24989#0" expanded="false" />
+                <element signature="e#25033#31794#0" expanded="false" />
+                <element signature="e#27588#28366#0" expanded="false" />
+                <element signature="e#28460#28604#0" expanded="false" />
+                <element signature="e#28661#29333#0" expanded="false" />
+                <element signature="e#29335#30078#0" expanded="false" />
+                <element signature="e#30160#30522#0" expanded="false" />
+                <element signature="e#30607#30741#0" expanded="false" />
+                <element signature="e#30836#30999#0" expanded="false" />
+                <element signature="e#31099#31262#0" expanded="false" />
+                <element signature="e#31349#31793#0" expanded="false" />
+                <element signature="e#31875#42027#0" expanded="false" />
+                <element signature="e#32097#35223#0" expanded="false" />
+                <element signature="e#32167#32354#0" expanded="false" />
+                <element signature="e#32533#35222#0" expanded="false" />
+                <element signature="e#35266#42027#0" expanded="false" />
+                <element signature="e#37821#38599#0" expanded="false" />
+                <element signature="e#38693#38837#0" expanded="false" />
+                <element signature="e#38894#39566#0" expanded="false" />
+                <element signature="e#39568#40311#0" expanded="false" />
+                <element signature="e#40393#40755#0" expanded="false" />
+                <element signature="e#40840#40974#0" expanded="false" />
+                <element signature="e#41069#41232#0" expanded="false" />
+                <element signature="e#41332#41495#0" expanded="false" />
+                <element signature="e#41582#42026#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>random</find>
+      <find>piccCreditPhoto</find>
+      <find>piccCreditSignPhoto</find>
+      <find>maritalStatus</find>
+      <find>singleCertificate</find>
+      <find>spouseIdCard</find>
+      <find>spouseOtherContactMode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/case/test_Shop_Order2.py" />
+        <option value="$PROJECT_DIR$/case/test_Shop_Submit_Orginfo.py" />
+        <option value="$PROJECT_DIR$/common/base.py" />
+        <option value="$PROJECT_DIR$/case/test_Shop_Submit_Order2.py" />
+        <option value="$PROJECT_DIR$/case/test_Shop_Submit_Order2.py" />
+        <option value="$PROJECT_DIR$/case/.pytest_cache/test_Order1.py" />
+        <option value="$PROJECT_DIR$/case/test_Config.py" />
+        <option value="$PROJECT_DIR$/case/.pytest_cache/123.py" />
+        <option value="$PROJECT_DIR$/case/test_01.py" />
+        <option value="$PROJECT_DIR$/case/test_Admin_Submit_Orginfo.py" />
+        <option value="$PROJECT_DIR$/common/page.py" />
+        <option value="$PROJECT_DIR$/case/__init__.py" />
+        <option value="$PROJECT_DIR$/case/test_setConfig.py" />
+        <option value="$PROJECT_DIR$/config/readConfig.py" />
+        <option value="$PROJECT_DIR$/case/test_Order1.py" />
+        <option value="$PROJECT_DIR$/case/test_Order2.py" />
+        <option value="$PROJECT_DIR$/case/test_Order3.py" />
+        <option value="$PROJECT_DIR$/case/test_Org.py" />
+        <option value="$PROJECT_DIR$/config/cfg.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="623" />
+    <option name="y" value="325" />
+    <option name="width" value="1291" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hsBroPort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hsBroPort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hsBroPort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hsBroPort" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hsBroPort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hsBroPort" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python35\hsBroPort\case" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.py.test for test_Order1.test_02_Order1">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="hsBroTest" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test for test_Order1.test_01_Order1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroPort" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Order1.test_01_Order1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_Order1.test_02_Order1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroPort" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Order1.test_02_Order1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroPort" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Order1.test_02_Order1.test_03_Admin_VerifyLoan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroPort" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Order1.test_02_Order1.test_04_Shop_SettlementApply&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_Order1.test_02_Order1.test_05_Admin_LaunchB7" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hsBroPort" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Order1.test_02_Order1.test_05_Admin_LaunchB7&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_05_Admin_LaunchB7" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_01_Order1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_01_Order1" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_05_Admin_LaunchB7" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec0752a-ea50-40ca-8f12-a8b03d421cd6" name="Default" comment="" />
+      <created>1567562588228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567562588228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_Order1_test_01_Order1 - 2019.09.26 at 10h 41m 32s.xml">
+      <configuration name="py.test for test_Order1.test_01_Order1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1 - 2019.09.26 at 10h 43m 19s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_03_Admin_VerifyLoan - 2019.09.26 at 10h 03m 06s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_03_Admin_VerifyLoan - 2019.09.26 at 10h 03m 31s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_03_Admin_VerifyLoan" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply - 2019.09.26 at 10h 03m 13s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply - 2019.09.26 at 10h 03m 22s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply - 2019.09.26 at 10h 03m 56s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply - 2019.09.26 at 10h 05m 58s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_04_Shop_SettlementApply - 2019.09.26 at 10h 08m 17s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_04_Shop_SettlementApply" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Order1_test_02_Order1_test_05_Admin_LaunchB7 - 2019.09.26 at 10h 13m 43s.xml">
+      <configuration name="py.test for test_Order1.test_02_Order1.test_05_Admin_LaunchB7" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49346405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#1395#10804#0" expanded="false" />
+            <element signature="e#1569#10764#0" expanded="false" />
+            <element signature="e#1645#3637#0" expanded="false" />
+            <element signature="e#6293#7147#0" expanded="false" />
+            <element signature="e#7249#7473#0" expanded="false" />
+            <element signature="e#7538#8200#0" expanded="false" />
+            <element signature="e#8201#8903#0" expanded="false" />
+            <element signature="e#8992#9513#0" expanded="false" />
+            <element signature="e#9606#9842#0" expanded="false" />
+            <element signature="e#9944#10204#0" expanded="false" />
+            <element signature="e#10312#10499#0" expanded="false" />
+            <element signature="e#10593#10763#0" expanded="false" />
+            <element signature="e#10886#21752#0" expanded="false" />
+            <element signature="e#11025#21752#0" expanded="false" />
+            <element signature="e#11276#14511#0" expanded="false" />
+            <element signature="e#17138#17992#0" expanded="false" />
+            <element signature="e#18094#18258#0" expanded="false" />
+            <element signature="e#18323#19035#0" expanded="false" />
+            <element signature="e#19037#19824#0" expanded="false" />
+            <element signature="e#19914#20320#0" expanded="false" />
+            <element signature="e#20413#20567#0" expanded="false" />
+            <element signature="e#20670#20857#0" expanded="false" />
+            <element signature="e#20965#21152#0" expanded="false" />
+            <element signature="e#21247#21711#0" expanded="false" />
+            <element signature="e#21830#31794#0" expanded="false" />
+            <element signature="e#22050#24990#0" expanded="false" />
+            <element signature="e#22125#22317#0" expanded="false" />
+            <element signature="e#22471#24989#0" expanded="false" />
+            <element signature="e#25033#31794#0" expanded="false" />
+            <element signature="e#27588#28366#0" expanded="false" />
+            <element signature="e#28460#28604#0" expanded="false" />
+            <element signature="e#28661#29333#0" expanded="false" />
+            <element signature="e#29335#30078#0" expanded="false" />
+            <element signature="e#30160#30522#0" expanded="false" />
+            <element signature="e#30607#30741#0" expanded="false" />
+            <element signature="e#30836#30999#0" expanded="false" />
+            <element signature="e#31099#31262#0" expanded="false" />
+            <element signature="e#31349#31793#0" expanded="false" />
+            <element signature="e#31875#42027#0" expanded="false" />
+            <element signature="e#32097#35223#0" expanded="false" />
+            <element signature="e#32167#32354#0" expanded="false" />
+            <element signature="e#32533#35222#0" expanded="false" />
+            <element signature="e#35266#42027#0" expanded="false" />
+            <element signature="e#37821#38599#0" expanded="false" />
+            <element signature="e#38693#38837#0" expanded="false" />
+            <element signature="e#38894#39566#0" expanded="false" />
+            <element signature="e#39568#40311#0" expanded="false" />
+            <element signature="e#40393#40755#0" expanded="false" />
+            <element signature="e#40840#40974#0" expanded="false" />
+            <element signature="e#41069#41232#0" expanded="false" />
+            <element signature="e#41332#41495#0" expanded="false" />
+            <element signature="e#41582#42026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1146#5390#0" expanded="false" />
+            <element signature="e#1206#3285#0" expanded="false" />
+            <element signature="e#2244#3244#0" expanded="false" />
+            <element signature="e#3334#5390#0" expanded="false" />
+            <element signature="e#4137#4449#0" expanded="false" />
+            <element signature="e#4562#4776#0" expanded="false" />
+            <element signature="e#5210#5349#0" expanded="false" />
+            <element signature="e#5450#9826#0" expanded="false" />
+            <element signature="e#5524#7330#0" expanded="false" />
+            <element signature="e#5827#7290#0" expanded="false" />
+            <element signature="e#6554#6952#0" expanded="false" />
+            <element signature="e#7059#7289#0" expanded="false" />
+            <element signature="e#7375#8653#0" expanded="false" />
+            <element signature="e#7684#8613#0" expanded="false" />
+            <element signature="e#8381#8612#0" expanded="false" />
+            <element signature="e#8703#9826#0" expanded="false" />
+            <element signature="e#9008#9786#0" expanded="false" />
+            <element signature="e#9886#17378#0" expanded="false" />
+            <element signature="e#9957#11470#0" expanded="false" />
+            <element signature="e#10862#11094#0" expanded="false" />
+            <element signature="e#11200#11429#0" expanded="false" />
+            <element signature="e#11522#13063#0" expanded="false" />
+            <element signature="e#11830#13023#0" expanded="false" />
+            <element signature="e#12754#13022#0" expanded="false" />
+            <element signature="e#13113#17378#0" expanded="false" />
+            <element signature="e#13412#17338#0" expanded="false" />
+            <element signature="e#14643#15064#0" expanded="false" />
+            <element signature="e#15173#15594#0" expanded="false" />
+            <element signature="e#15702#16123#0" expanded="false" />
+            <element signature="e#16231#16720#0" expanded="false" />
+            <element signature="e#16820#17038#0" expanded="false" />
+            <element signature="e#17137#17337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Shop_Submit_Orginfo.py" />
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#1395#10804#0" expanded="false" />
+            <element signature="e#1569#10764#0" expanded="false" />
+            <element signature="e#1645#3637#0" expanded="false" />
+            <element signature="e#6293#7147#0" expanded="false" />
+            <element signature="e#7249#7473#0" expanded="false" />
+            <element signature="e#7538#8200#0" expanded="false" />
+            <element signature="e#8201#8903#0" expanded="false" />
+            <element signature="e#8992#9513#0" expanded="false" />
+            <element signature="e#9606#9842#0" expanded="false" />
+            <element signature="e#9944#10204#0" expanded="false" />
+            <element signature="e#10312#10499#0" expanded="false" />
+            <element signature="e#10593#10763#0" expanded="false" />
+            <element signature="e#10886#21752#0" expanded="false" />
+            <element signature="e#11025#21752#0" expanded="false" />
+            <element signature="e#11276#14511#0" expanded="false" />
+            <element signature="e#17138#17992#0" expanded="false" />
+            <element signature="e#18094#18258#0" expanded="false" />
+            <element signature="e#18323#19035#0" expanded="false" />
+            <element signature="e#19037#19824#0" expanded="false" />
+            <element signature="e#19914#20320#0" expanded="false" />
+            <element signature="e#20413#20567#0" expanded="false" />
+            <element signature="e#20670#20857#0" expanded="false" />
+            <element signature="e#20965#21152#0" expanded="false" />
+            <element signature="e#21247#21711#0" expanded="false" />
+            <element signature="e#21830#31794#0" expanded="false" />
+            <element signature="e#22050#24990#0" expanded="false" />
+            <element signature="e#22125#22317#0" expanded="false" />
+            <element signature="e#22471#24989#0" expanded="false" />
+            <element signature="e#25033#31794#0" expanded="false" />
+            <element signature="e#27588#28366#0" expanded="false" />
+            <element signature="e#28460#28604#0" expanded="false" />
+            <element signature="e#28661#29333#0" expanded="false" />
+            <element signature="e#29335#30078#0" expanded="false" />
+            <element signature="e#30160#30522#0" expanded="false" />
+            <element signature="e#30607#30741#0" expanded="false" />
+            <element signature="e#30836#30999#0" expanded="false" />
+            <element signature="e#31099#31262#0" expanded="false" />
+            <element signature="e#31349#31793#0" expanded="false" />
+            <element signature="e#31875#42027#0" expanded="false" />
+            <element signature="e#32097#35223#0" expanded="false" />
+            <element signature="e#32167#32354#0" expanded="false" />
+            <element signature="e#32533#35222#0" expanded="false" />
+            <element signature="e#35266#42027#0" expanded="false" />
+            <element signature="e#37821#38599#0" expanded="false" />
+            <element signature="e#38693#38837#0" expanded="false" />
+            <element signature="e#38894#39566#0" expanded="false" />
+            <element signature="e#39568#40311#0" expanded="false" />
+            <element signature="e#40393#40755#0" expanded="false" />
+            <element signature="e#40840#40974#0" expanded="false" />
+            <element signature="e#41069#41232#0" expanded="false" />
+            <element signature="e#41332#41495#0" expanded="false" />
+            <element signature="e#41582#42026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1146#5390#0" expanded="false" />
+            <element signature="e#1206#3285#0" expanded="false" />
+            <element signature="e#2244#3244#0" expanded="false" />
+            <element signature="e#3334#5390#0" expanded="false" />
+            <element signature="e#4137#4449#0" expanded="false" />
+            <element signature="e#4562#4776#0" expanded="false" />
+            <element signature="e#5210#5349#0" expanded="false" />
+            <element signature="e#5450#9826#0" expanded="false" />
+            <element signature="e#5524#7330#0" expanded="false" />
+            <element signature="e#5827#7290#0" expanded="false" />
+            <element signature="e#6554#6952#0" expanded="false" />
+            <element signature="e#7059#7289#0" expanded="false" />
+            <element signature="e#7375#8653#0" expanded="false" />
+            <element signature="e#7684#8613#0" expanded="false" />
+            <element signature="e#8381#8612#0" expanded="false" />
+            <element signature="e#8703#9826#0" expanded="false" />
+            <element signature="e#9008#9786#0" expanded="false" />
+            <element signature="e#9886#17378#0" expanded="false" />
+            <element signature="e#9957#11470#0" expanded="false" />
+            <element signature="e#10862#11094#0" expanded="false" />
+            <element signature="e#11200#11429#0" expanded="false" />
+            <element signature="e#11522#13063#0" expanded="false" />
+            <element signature="e#11830#13023#0" expanded="false" />
+            <element signature="e#12754#13022#0" expanded="false" />
+            <element signature="e#13113#17378#0" expanded="false" />
+            <element signature="e#13412#17338#0" expanded="false" />
+            <element signature="e#14643#15064#0" expanded="false" />
+            <element signature="e#15173#15594#0" expanded="false" />
+            <element signature="e#15702#16123#0" expanded="false" />
+            <element signature="e#16231#16720#0" expanded="false" />
+            <element signature="e#16820#17038#0" expanded="false" />
+            <element signature="e#17137#17337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#1395#10804#0" expanded="false" />
+            <element signature="e#1569#10764#0" expanded="false" />
+            <element signature="e#1645#3637#0" expanded="false" />
+            <element signature="e#6293#7147#0" expanded="false" />
+            <element signature="e#7249#7473#0" expanded="false" />
+            <element signature="e#7538#8200#0" expanded="false" />
+            <element signature="e#8201#8903#0" expanded="false" />
+            <element signature="e#8992#9513#0" expanded="false" />
+            <element signature="e#9606#9842#0" expanded="false" />
+            <element signature="e#9944#10204#0" expanded="false" />
+            <element signature="e#10312#10499#0" expanded="false" />
+            <element signature="e#10593#10763#0" expanded="false" />
+            <element signature="e#10886#21752#0" expanded="false" />
+            <element signature="e#11025#21752#0" expanded="false" />
+            <element signature="e#11276#14511#0" expanded="false" />
+            <element signature="e#17138#17992#0" expanded="false" />
+            <element signature="e#18094#18258#0" expanded="false" />
+            <element signature="e#18323#19035#0" expanded="false" />
+            <element signature="e#19037#19824#0" expanded="false" />
+            <element signature="e#19914#20320#0" expanded="false" />
+            <element signature="e#20413#20567#0" expanded="false" />
+            <element signature="e#20670#20857#0" expanded="false" />
+            <element signature="e#20965#21152#0" expanded="false" />
+            <element signature="e#21247#21711#0" expanded="false" />
+            <element signature="e#21830#31794#0" expanded="false" />
+            <element signature="e#22050#24990#0" expanded="false" />
+            <element signature="e#22125#22317#0" expanded="false" />
+            <element signature="e#22471#24989#0" expanded="false" />
+            <element signature="e#25033#31794#0" expanded="false" />
+            <element signature="e#27588#28366#0" expanded="false" />
+            <element signature="e#28460#28604#0" expanded="false" />
+            <element signature="e#28661#29333#0" expanded="false" />
+            <element signature="e#29335#30078#0" expanded="false" />
+            <element signature="e#30160#30522#0" expanded="false" />
+            <element signature="e#30607#30741#0" expanded="false" />
+            <element signature="e#30836#30999#0" expanded="false" />
+            <element signature="e#31099#31262#0" expanded="false" />
+            <element signature="e#31349#31793#0" expanded="false" />
+            <element signature="e#31875#42027#0" expanded="false" />
+            <element signature="e#32097#35223#0" expanded="false" />
+            <element signature="e#32167#32354#0" expanded="false" />
+            <element signature="e#32533#35222#0" expanded="false" />
+            <element signature="e#35266#42027#0" expanded="false" />
+            <element signature="e#37821#38599#0" expanded="false" />
+            <element signature="e#38693#38837#0" expanded="false" />
+            <element signature="e#38894#39566#0" expanded="false" />
+            <element signature="e#39568#40311#0" expanded="false" />
+            <element signature="e#40393#40755#0" expanded="false" />
+            <element signature="e#40840#40974#0" expanded="false" />
+            <element signature="e#41069#41232#0" expanded="false" />
+            <element signature="e#41332#41495#0" expanded="false" />
+            <element signature="e#41582#42026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Shop_Submit_Orginfo.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1146#5390#0" expanded="false" />
+            <element signature="e#1206#3285#0" expanded="false" />
+            <element signature="e#2244#3244#0" expanded="false" />
+            <element signature="e#3334#5390#0" expanded="false" />
+            <element signature="e#4137#4449#0" expanded="false" />
+            <element signature="e#4562#4776#0" expanded="false" />
+            <element signature="e#5210#5349#0" expanded="false" />
+            <element signature="e#5450#9826#0" expanded="false" />
+            <element signature="e#5524#7330#0" expanded="false" />
+            <element signature="e#5827#7290#0" expanded="false" />
+            <element signature="e#6554#6952#0" expanded="false" />
+            <element signature="e#7059#7289#0" expanded="false" />
+            <element signature="e#7375#8653#0" expanded="false" />
+            <element signature="e#7684#8613#0" expanded="false" />
+            <element signature="e#8381#8612#0" expanded="false" />
+            <element signature="e#8703#9826#0" expanded="false" />
+            <element signature="e#9008#9786#0" expanded="false" />
+            <element signature="e#9886#17378#0" expanded="false" />
+            <element signature="e#9957#11470#0" expanded="false" />
+            <element signature="e#10862#11094#0" expanded="false" />
+            <element signature="e#11200#11429#0" expanded="false" />
+            <element signature="e#11522#13063#0" expanded="false" />
+            <element signature="e#11830#13023#0" expanded="false" />
+            <element signature="e#12754#13022#0" expanded="false" />
+            <element signature="e#13113#17378#0" expanded="false" />
+            <element signature="e#13412#17338#0" expanded="false" />
+            <element signature="e#14643#15064#0" expanded="false" />
+            <element signature="e#15173#15594#0" expanded="false" />
+            <element signature="e#15702#16123#0" expanded="false" />
+            <element signature="e#16231#16720#0" expanded="false" />
+            <element signature="e#16820#17038#0" expanded="false" />
+            <element signature="e#17137#17337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Shop_Submit_Orginfo.py" />
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#1395#10804#0" expanded="false" />
+            <element signature="e#1569#10764#0" expanded="false" />
+            <element signature="e#1645#3637#0" expanded="false" />
+            <element signature="e#6293#7147#0" expanded="false" />
+            <element signature="e#7249#7473#0" expanded="false" />
+            <element signature="e#7538#8200#0" expanded="false" />
+            <element signature="e#8201#8903#0" expanded="false" />
+            <element signature="e#8992#9513#0" expanded="false" />
+            <element signature="e#9606#9842#0" expanded="false" />
+            <element signature="e#9944#10204#0" expanded="false" />
+            <element signature="e#10312#10499#0" expanded="false" />
+            <element signature="e#10593#10763#0" expanded="false" />
+            <element signature="e#10886#21752#0" expanded="false" />
+            <element signature="e#11025#21752#0" expanded="false" />
+            <element signature="e#11276#14511#0" expanded="false" />
+            <element signature="e#17138#17992#0" expanded="false" />
+            <element signature="e#18094#18258#0" expanded="false" />
+            <element signature="e#18323#19035#0" expanded="false" />
+            <element signature="e#19037#19824#0" expanded="false" />
+            <element signature="e#19914#20320#0" expanded="false" />
+            <element signature="e#20413#20567#0" expanded="false" />
+            <element signature="e#20670#20857#0" expanded="false" />
+            <element signature="e#20965#21152#0" expanded="false" />
+            <element signature="e#21247#21711#0" expanded="false" />
+            <element signature="e#21830#31794#0" expanded="false" />
+            <element signature="e#22050#24990#0" expanded="false" />
+            <element signature="e#22125#22317#0" expanded="false" />
+            <element signature="e#22471#24989#0" expanded="false" />
+            <element signature="e#25033#31794#0" expanded="false" />
+            <element signature="e#27588#28366#0" expanded="false" />
+            <element signature="e#28460#28604#0" expanded="false" />
+            <element signature="e#28661#29333#0" expanded="false" />
+            <element signature="e#29335#30078#0" expanded="false" />
+            <element signature="e#30160#30522#0" expanded="false" />
+            <element signature="e#30607#30741#0" expanded="false" />
+            <element signature="e#30836#30999#0" expanded="false" />
+            <element signature="e#31099#31262#0" expanded="false" />
+            <element signature="e#31349#31793#0" expanded="false" />
+            <element signature="e#31875#42027#0" expanded="false" />
+            <element signature="e#32097#35223#0" expanded="false" />
+            <element signature="e#32167#32354#0" expanded="false" />
+            <element signature="e#32533#35222#0" expanded="false" />
+            <element signature="e#35266#42027#0" expanded="false" />
+            <element signature="e#37821#38599#0" expanded="false" />
+            <element signature="e#38693#38837#0" expanded="false" />
+            <element signature="e#38894#39566#0" expanded="false" />
+            <element signature="e#39568#40311#0" expanded="false" />
+            <element signature="e#40393#40755#0" expanded="false" />
+            <element signature="e#40840#40974#0" expanded="false" />
+            <element signature="e#41069#41232#0" expanded="false" />
+            <element signature="e#41332#41495#0" expanded="false" />
+            <element signature="e#41582#42026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1146#5390#0" expanded="false" />
+            <element signature="e#1206#3285#0" expanded="false" />
+            <element signature="e#2244#3244#0" expanded="false" />
+            <element signature="e#3334#5390#0" expanded="false" />
+            <element signature="e#4137#4449#0" expanded="false" />
+            <element signature="e#4562#4776#0" expanded="false" />
+            <element signature="e#5210#5349#0" expanded="false" />
+            <element signature="e#5450#9826#0" expanded="false" />
+            <element signature="e#5524#7330#0" expanded="false" />
+            <element signature="e#5827#7290#0" expanded="false" />
+            <element signature="e#6554#6952#0" expanded="false" />
+            <element signature="e#7059#7289#0" expanded="false" />
+            <element signature="e#7375#8653#0" expanded="false" />
+            <element signature="e#7684#8613#0" expanded="false" />
+            <element signature="e#8381#8612#0" expanded="false" />
+            <element signature="e#8703#9826#0" expanded="false" />
+            <element signature="e#9008#9786#0" expanded="false" />
+            <element signature="e#9886#17378#0" expanded="false" />
+            <element signature="e#9957#11470#0" expanded="false" />
+            <element signature="e#10862#11094#0" expanded="false" />
+            <element signature="e#11200#11429#0" expanded="false" />
+            <element signature="e#11522#13063#0" expanded="false" />
+            <element signature="e#11830#13023#0" expanded="false" />
+            <element signature="e#12754#13022#0" expanded="false" />
+            <element signature="e#13113#17378#0" expanded="false" />
+            <element signature="e#13412#17338#0" expanded="false" />
+            <element signature="e#14643#15064#0" expanded="false" />
+            <element signature="e#15173#15594#0" expanded="false" />
+            <element signature="e#15702#16123#0" expanded="false" />
+            <element signature="e#16231#16720#0" expanded="false" />
+            <element signature="e#16820#17038#0" expanded="false" />
+            <element signature="e#17137#17337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/py/_path/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="700" column="0" lean-forward="false" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="515" column="0" lean-forward="false" selection-start-line="515" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/urllib3/util/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="732" column="0" lean-forward="false" selection-start-line="732" selection-start-column="0" selection-end-line="732" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="103" column="29" lean-forward="false" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3224">
+          <caret line="445" column="0" lean-forward="false" selection-start-line="445" selection-start-column="0" selection-end-line="445" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/.pytest_cache/123.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_01.py" />
+    <entry file="file://$PROJECT_DIR$/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Shop_Submit_Orginfo.py" />
+    <entry file="file://$PROJECT_DIR$/case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="36" lean-forward="false" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2706">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_setConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="366" column="23" lean-forward="false" selection-start-line="366" selection-start-column="23" selection-end-line="366" selection-end-column="23" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1371#2376#0" expanded="false" />
+            <element signature="e#2420#3426#0" expanded="false" />
+            <element signature="e#3445#4385#0" expanded="false" />
+            <element signature="e#4484#4735#0" expanded="false" />
+            <element signature="e#5136#5214#0" expanded="false" />
+            <element signature="e#5233#5311#0" expanded="false" />
+            <element signature="e#5317#5353#0" expanded="false" />
+            <element signature="e#8876#12588#0" expanded="false" />
+            <element signature="e#11128#11146#0" expanded="false" />
+            <element signature="e#12602#12610#0" expanded="false" />
+            <element signature="e#17593#17599#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Org.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="e#1395#10804#0" expanded="false" />
+            <element signature="e#1569#10764#0" expanded="false" />
+            <element signature="e#1645#3637#0" expanded="false" />
+            <element signature="e#6293#7147#0" expanded="false" />
+            <element signature="e#7249#7473#0" expanded="false" />
+            <element signature="e#7538#8200#0" expanded="false" />
+            <element signature="e#8201#8903#0" expanded="false" />
+            <element signature="e#8992#9513#0" expanded="false" />
+            <element signature="e#9606#9842#0" expanded="false" />
+            <element signature="e#9944#10204#0" expanded="false" />
+            <element signature="e#10312#10499#0" expanded="false" />
+            <element signature="e#10593#10763#0" expanded="false" />
+            <element signature="e#10886#21752#0" expanded="false" />
+            <element signature="e#11025#21752#0" expanded="false" />
+            <element signature="e#11276#14511#0" expanded="false" />
+            <element signature="e#17138#17992#0" expanded="false" />
+            <element signature="e#18094#18258#0" expanded="false" />
+            <element signature="e#18323#19035#0" expanded="false" />
+            <element signature="e#19037#19824#0" expanded="false" />
+            <element signature="e#19914#20320#0" expanded="false" />
+            <element signature="e#20413#20567#0" expanded="false" />
+            <element signature="e#20670#20857#0" expanded="false" />
+            <element signature="e#20965#21152#0" expanded="false" />
+            <element signature="e#21247#21711#0" expanded="false" />
+            <element signature="e#21830#31794#0" expanded="false" />
+            <element signature="e#22050#24990#0" expanded="false" />
+            <element signature="e#22125#22317#0" expanded="false" />
+            <element signature="e#22471#24989#0" expanded="false" />
+            <element signature="e#25033#31794#0" expanded="false" />
+            <element signature="e#27588#28366#0" expanded="false" />
+            <element signature="e#28460#28604#0" expanded="false" />
+            <element signature="e#28661#29333#0" expanded="false" />
+            <element signature="e#29335#30078#0" expanded="false" />
+            <element signature="e#30160#30522#0" expanded="false" />
+            <element signature="e#30607#30741#0" expanded="false" />
+            <element signature="e#30836#30999#0" expanded="false" />
+            <element signature="e#31099#31262#0" expanded="false" />
+            <element signature="e#31349#31793#0" expanded="false" />
+            <element signature="e#31875#42027#0" expanded="false" />
+            <element signature="e#32097#35223#0" expanded="false" />
+            <element signature="e#32167#32354#0" expanded="false" />
+            <element signature="e#32533#35222#0" expanded="false" />
+            <element signature="e#35266#42027#0" expanded="false" />
+            <element signature="e#37821#38599#0" expanded="false" />
+            <element signature="e#38693#38837#0" expanded="false" />
+            <element signature="e#38894#39566#0" expanded="false" />
+            <element signature="e#39568#40311#0" expanded="false" />
+            <element signature="e#40393#40755#0" expanded="false" />
+            <element signature="e#40840#40974#0" expanded="false" />
+            <element signature="e#41069#41232#0" expanded="false" />
+            <element signature="e#41332#41495#0" expanded="false" />
+            <element signature="e#41582#42026#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+            <element signature="e#1146#5390#0" expanded="false" />
+            <element signature="e#1206#3285#0" expanded="false" />
+            <element signature="e#2244#3244#0" expanded="false" />
+            <element signature="e#3334#5390#0" expanded="false" />
+            <element signature="e#4137#4449#0" expanded="false" />
+            <element signature="e#4562#4776#0" expanded="false" />
+            <element signature="e#5210#5349#0" expanded="false" />
+            <element signature="e#5450#9826#0" expanded="false" />
+            <element signature="e#5524#7330#0" expanded="false" />
+            <element signature="e#5827#7290#0" expanded="false" />
+            <element signature="e#6554#6952#0" expanded="false" />
+            <element signature="e#7059#7289#0" expanded="false" />
+            <element signature="e#7375#8653#0" expanded="false" />
+            <element signature="e#7684#8613#0" expanded="false" />
+            <element signature="e#8381#8612#0" expanded="false" />
+            <element signature="e#8703#9826#0" expanded="false" />
+            <element signature="e#9008#9786#0" expanded="false" />
+            <element signature="e#9886#17378#0" expanded="false" />
+            <element signature="e#9957#11470#0" expanded="false" />
+            <element signature="e#10862#11094#0" expanded="false" />
+            <element signature="e#11200#11429#0" expanded="false" />
+            <element signature="e#11522#13063#0" expanded="false" />
+            <element signature="e#11830#13023#0" expanded="false" />
+            <element signature="e#12754#13022#0" expanded="false" />
+            <element signature="e#13113#17378#0" expanded="false" />
+            <element signature="e#13412#17338#0" expanded="false" />
+            <element signature="e#14643#15064#0" expanded="false" />
+            <element signature="e#15173#15594#0" expanded="false" />
+            <element signature="e#15702#16123#0" expanded="false" />
+            <element signature="e#16231#16720#0" expanded="false" />
+            <element signature="e#16820#17038#0" expanded="false" />
+            <element signature="e#17137#17337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_Order1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="149" column="13" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+          <folding>
+            <element signature="e#2023#6615#0" expanded="false" />
+            <element signature="e#2854#4326#0" expanded="false" />
+            <element signature="e#3242#4284#0" expanded="false" />
+            <element signature="e#4377#6615#0" expanded="false" />
+            <element signature="e#5472#5478#0" expanded="false" />
+            <element signature="e#6167#6362#0" expanded="false" />
+            <element signature="e#6469#6574#0" expanded="false" />
+            <element signature="e#6675#14951#0" expanded="false" />
+            <element signature="e#6720#8430#0" expanded="false" />
+            <element signature="e#7257#7403#0" expanded="false" />
+            <element signature="e#7506#8047#0" expanded="false" />
+            <element signature="e#8145#8389#0" expanded="false" />
+            <element signature="e#8479#9168#0" expanded="false" />
+            <element signature="e#9012#9127#0" expanded="false" />
+            <element signature="e#9217#11017#0" expanded="false" />
+            <element signature="e#9525#10977#0" expanded="false" />
+            <element signature="e#9750#9867#0" expanded="false" />
+            <element signature="e#9970#10117#0" expanded="false" />
+            <element signature="e#10219#10376#0" expanded="false" />
+            <element signature="e#10473#10626#0" expanded="false" />
+            <element signature="e#10723#10976#0" expanded="false" />
+            <element signature="e#11070#11954#0" expanded="false" />
+            <element signature="e#12001#14951#0" expanded="false" />
+            <element signature="e#12308#14911#0" expanded="false" />
+            <element signature="e#13057#13672#0" expanded="false" />
+            <element signature="e#13776#13935#0" expanded="false" />
+            <element signature="e#14040#14158#0" expanded="false" />
+            <element signature="e#14261#14408#0" expanded="false" />
+            <element signature="e#14504#14651#0" expanded="false" />
+            <element signature="e#14749#14910#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
